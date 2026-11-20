@@ -1,0 +1,113 @@
+{
+ "categories": [
+  {
+   "k": "food",
+   "l": "مطاعم ومناسبات"
+  },
+  {
+   "k": "shop",
+   "l": "تجارة وجمال"
+  },
+  {
+   "k": "health",
+   "l": "صحة ولياقة"
+  },
+  {
+   "k": "home",
+   "l": "عقارات وديكور"
+  },
+  {
+   "k": "biz",
+   "l": "خدمات وشركات"
+  },
+  {
+   "k": "offer",
+   "l": "عروض وتعليم"
+  }
+ ],
+ "works": [
+  {
+   "img": "images/work-11.jpg",
+   "cat": "food",
+   "title": "مطعم برجر: بوست ترويجي",
+   "hero": true
+  },
+  {
+   "img": "images/work-7.jpg",
+   "cat": "shop",
+   "title": "منتجات عناية بالبشرة"
+  },
+  {
+   "img": "images/work-5.jpg",
+   "cat": "home",
+   "title": "معرض أثاث: كتالوج",
+   "hero": true
+  },
+  {
+   "img": "images/work-15.jpg",
+   "cat": "biz",
+   "title": "مكتب محاماة: استشارة قانونية",
+   "hero": true
+  },
+  {
+   "img": "images/work-1.jpg",
+   "cat": "biz",
+   "title": "شركة سياحة: حجز رحلات"
+  },
+  {
+   "img": "images/work-9.jpg",
+   "cat": "home",
+   "title": "تشطيب وديكور: معاينة مجانية"
+  },
+  {
+   "img": "images/work-13.jpg",
+   "cat": "home",
+   "title": "تنسيق حدائق: معاينة هندسية"
+  },
+  {
+   "img": "images/work-16.jpg",
+   "cat": "food",
+   "title": "تنظيم أفراح: حجز"
+  },
+  {
+   "img": "images/work-3.jpg",
+   "cat": "shop",
+   "title": "متجر ملابس: موسم الشتاء"
+  },
+  {
+   "img": "images/work-8.jpg",
+   "cat": "health",
+   "title": "عيادة أسنان: حجز كشف"
+  },
+  {
+   "img": "images/work-2.jpg",
+   "cat": "biz",
+   "title": "مكتب محاسبة: استشارة"
+  },
+  {
+   "img": "images/work-12.jpg",
+   "cat": "health",
+   "title": "جيم ولياقة: اشتراك شهري"
+  },
+  {
+   "img": "images/work-14.jpg",
+   "cat": "biz",
+   "title": "شركة برمجة: مشروع رقمي"
+  },
+  {
+   "img": "images/work-6.jpg",
+   "cat": "biz",
+   "title": "شركة شحن: ابدأ الشحن"
+  },
+  {
+   "img": "images/work-0.jpg",
+   "cat": "offer",
+   "title": "دورات تدريبية: حجز مقعد"
+  },
+  {
+   "img": "images/work-10.jpg",
+   "cat": "offer",
+   "title": "عرض لفترة محدودة: خصم 50%"
+  }
+ ]
+}
