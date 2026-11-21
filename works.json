@@ -25,6 +25,27 @@
    "l": "عروض وتعليم"
   }
  ],
+ "campaigns": [
+  {
+   "title": "ركن الدفا",
+   "desc": "حملة من 3 بستات للمطاعم والكافيهات",
+   "cat": "food",
+   "images": [
+    {
+     "img": "images/1795308642080-0.jpg",
+     "label": "جذب"
+    },
+    {
+     "img": "images/1795308642080-1.jpg",
+     "label": "عرض"
+    },
+    {
+     "img": "images/1795308642080-2.jpg",
+     "label": "ثقة"
+    }
+   ]
+  }
+ ],
  "works": [
   {
    "img": "images/work-11.jpg",
