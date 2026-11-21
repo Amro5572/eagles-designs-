@@ -25,27 +25,6 @@
    "l": "عروض وتعليم"
   }
  ],
- "campaigns": [
-  {
-   "title": "ركن الدفا",
-   "desc": "حملة من 3 بوستات لكافيه ومطعم",
-   "cat": "food",
-   "images": [
-    {
-     "img": "images/1795306909502-0.jpg",
-     "label": "عرض"
-    },
-    {
-     "img": "images/1795306909502-1.jpg",
-     "label": "عرض"
-    },
-    {
-     "img": "images/1795306909502-2.jpg",
-     "label": "ثقة"
-    }
-   ]
-  }
- ],
  "works": [
   {
    "img": "images/work-11.jpg",
@@ -104,11 +83,6 @@
    "img": "images/work-2.jpg",
    "cat": "biz",
    "title": "مكتب محاسبة: استشارة"
-  },
-  {
-   "img": "images/work-12.jpg",
-   "cat": "health",
-   "title": "جيم ولياقة: اشتراك شهري"
   },
   {
    "img": "images/work-14.jpg",
