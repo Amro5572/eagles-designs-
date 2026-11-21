@@ -25,12 +25,28 @@
    "l": "عروض وتعليم"
   }
  ],
- "works": [
+ "campaigns": [
   {
-   "img": "images/1795196661691-0.jpg",
+   "title": "ركن الدفا",
+   "desc": "حملة من 3 بوستات لكافيه ومطعم",
    "cat": "food",
-   "title": "عرض شاورما فراخ"
-  },
+   "images": [
+    {
+     "img": "images/1795306909502-0.jpg",
+     "label": "عرض"
+    },
+    {
+     "img": "images/1795306909502-1.jpg",
+     "label": "عرض"
+    },
+    {
+     "img": "images/1795306909502-2.jpg",
+     "label": "ثقة"
+    }
+   ]
+  }
+ ],
+ "works": [
   {
    "img": "images/work-11.jpg",
    "cat": "food",
